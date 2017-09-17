@@ -1,7 +1,7 @@
 {
   "name": "irc",
-  "description": "An IRC client library for node",
-  "version": "0.5.2",
+  "description": "An IRC client library for node. Fork with fix on non-Latin nicks.",
+  "version": "0.0.1",
   "author": "Martyn Smith <martyn@dollyfish.net.nz>",
   "scripts": {
     "test": "./node_modules/faucet/bin/cmd.js test/test-*.js",
@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/martynsmith/node-irc"
+    "url": "https://github.com/ypeskov/node-irc"
   },
   "bugs": {
     "mail": "martyn@dollyfish.net.nz",
