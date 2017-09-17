@@ -1,5 +1,5 @@
 {
-  "name": "irc",
+  "name": "irc-fork-non-latin-nicks",
   "description": "An IRC client library for node. Fork with fix on non-Latin nicks.",
   "version": "0.0.1",
   "author": "Martyn Smith <martyn@dollyfish.net.nz>",
